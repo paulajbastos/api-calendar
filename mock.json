@@ -1,0 +1,213 @@
+[
+  {
+    "date": "18",
+    "appointment": [
+      {
+        "hour": "2",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "3",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "4",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "5",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "6",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "7",
+        "availabilityChecks": [],
+        "available": true
+      }
+    ]
+  },
+  {
+    "date": "19",
+    "appointment": [
+      {
+        "hour": "2",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "3",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "4",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "5",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "6",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "7",
+        "availabilityChecks": [],
+        "available": true
+      }
+    ]
+  },
+  {
+    "date": "20",
+    "appointment": [
+      {
+        "hour": "2",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "3",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "4",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "5",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "6",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "7",
+        "availabilityChecks": [],
+        "available": true
+      }
+    ]
+  },
+  {
+    "date": "21",
+    "appointment": [
+      {
+        "hour": "2",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "3",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "4",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "5",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "6",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "7",
+        "availabilityChecks": [],
+        "available": true
+      }
+    ]
+  },
+  {
+    "date": "22",
+    "appointment": [
+      {
+        "hour": "2",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "3",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "4",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "5",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "6",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "7",
+        "availabilityChecks": [],
+        "available": true
+      }
+    ]
+  },
+  {
+    "date": "23",
+    "appointment": [
+      {
+        "hour": "2",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "3",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "4",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "5",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "6",
+        "availabilityChecks": [],
+        "available": true
+      },
+      {
+        "hour": "7",
+        "availabilityChecks": [],
+        "available": true
+      }
+    ]
+  }
+
+]
